@@ -31,7 +31,7 @@ export default function Navigation() {
             <Link href="/posts2">
               <a
                 className={
-                  router.pathname.startsWith("/posts2") ? "active" : null
+                  router.pathname.startsWith("/posts") ? "active" : null
                 }
               >
                 blog technique
