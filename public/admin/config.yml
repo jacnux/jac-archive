@@ -180,15 +180,15 @@ collections:
         summary: "{{fields.tag}}"
         field:
           label: Tag
-           name: tag
-           widget: relation
-           collection: "meta"
-           file: "tags"
-           searchFields:
-             - "tags.*.name"
-           displayFields:
-             - "tags.*.name"
-           valueField: "tags.*.slug"
+          name: tag
+          widget: relation
+          collection: "meta"
+          file: "tags"
+            searchFields:
+              - "tags.*.name"
+            displayFields:
+              - "tags.*.name"
+            valueField: "tags.*.slug"
       - label: "Body"
-           name: "body"
-           widget: "markdown"
+          name: "body"
+          widget: "markdown"
