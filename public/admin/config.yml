@@ -184,11 +184,11 @@ collections:
           widget: relation
           collection: "meta"
           file: "tags"
-        searchFields:
-          - "tags.*.name"
-        displayFields:
-          - "tags.*.name"
-        valueField: "tags.*.slug"
+          searchFields:
+            - "tags.*.name"
+          displayFields:
+            - "tags.*.name"
+          valueField: "tags.*.slug"
       - label: "Body"
-        name: "body"
-        widget: "markdown"
+          name: "body"
+          widget: "markdown"
