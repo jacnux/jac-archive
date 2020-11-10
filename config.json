@@ -1,7 +1,7 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://jac-archive.netlify.app",
+  "site_title": "Jac Archive Blog",
+  "site_description": "Site de videos",
   "site_keywords": [
     {
       "keyword": "Next.js"
