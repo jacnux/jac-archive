@@ -142,7 +142,7 @@ collections:
         widget: "markdown"
 
   - name: "posts2"
-    label: "Posts2"
+    label: "Posts tec"
     folder: "src/pages/posts2"
     extension: "mdx"
     format: "frontmatter"
