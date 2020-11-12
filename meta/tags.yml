@@ -15,3 +15,5 @@ tags:
     name: Photo Technique
   - slug: dev
     name: Photo Developpement
+  - slug: photolab
+    name: Photolab
